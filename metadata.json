@@ -1,0 +1,6 @@
+{
+  "name": "CinemaClub",
+  "description": "A free movie download website with an admin panel for uploading and managing movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
